@@ -1,3 +1,3 @@
 # OnbotLUA - Bringing God's coding language to OnbotJava
 
-<img width="960" height="960" alt="IDoNotLikeJava" src="https://github.com/user-attachments/assets/243e2915-5ae3-45ff-be6c-c5393a2651a7" />
+<img width="960" height="960" alt="OBLua" src="https://github.com/user-attachments/assets/a89495c9-a339-4600-bea8-50dbbed81dda" />
